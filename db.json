@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "HTML", "text": "sxdxdxdxdddddddsgfaaaaaaaaaaaaaaaasddddddd" },
+    { "id": 2, "title": "CSS", "text": "hhhhhhhhhhhhhhffffffffffffffffffffffsssssssssssssss" },
+    { "id": 3, "title": "Javascript", "text": "dddddddddddddddddddfffffffffffffffffffff" },
+    { "id": 4, "title": "React", "text": "gfhffwwwwwwwwwwwwwwwwwwwwwwws" },
+    { "id": 5, "title": "Nextjs", "text": "dafafsdfsdfsdfsdfsdfsdfsdfsdf" }
+  ]
+}
